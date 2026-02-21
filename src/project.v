@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_vga_starfield (
+module tt_um_gcgc321 (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
     input  wire [7:0] uio_in,
